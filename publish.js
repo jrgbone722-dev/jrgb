@@ -22,26 +22,24 @@ var emails = [
 
 // 最新入口（固定 5 条完整域名）
 var newestUrls = [
-    'https://heiliaocg22.com/',
-    'https://heiliaocg21.com/',
-    'https://heiliaocg20.com/',
-    'https://heiliaocg19.com/',
-    'https://heiliaocg18.com/',
+    'https://jrgb01.com/',
+    'https://jrgb6.com/',
+
 ];
 
 // 永久网址
 var foreverUrls = [
-    'https://hlcgw.com',
+    'https://jrgb1.com',
 ];
 
 // 永久中转
 var foreverJumpUrls = [
-    'https://hlcgw.net',
+    'https://jrgb06.com',
 ];
 
 // 官方推特
 var twitterUrls = [
-    'https://x.com/hlcg1688',
+    'https://x.com/jrgb1127391',
 ];
 
 var notices = [
